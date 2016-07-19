@@ -1,0 +1,50 @@
+html, body { 
+  margin: 0px; 
+  padding: 0px; 
+  border: 0px;
+  color:#fff;
+}
+
+h1{
+  color:#FECA06;
+  font-size: 36px;
+}
+
+h3{
+  color:#FECA06;
+  font-size: 24px;
+}
+p {
+  font: 20px;
+}
+body {
+  background: url(images/botiwpwy.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#top {
+  background: url(images/topiwpwy.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width:100%;
+  height: 280px;
+  padding-top: 20px;
+  position: fixed;
+  z-index: 50;
+}
+
+.heading {
+  width:70%;
+  margin: auto;
+}
+
+.content {
+  overflow-x:auto;
+  padding-top: 200px;
+  width:70%;
+  margin: auto
+}
